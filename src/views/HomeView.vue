@@ -423,7 +423,7 @@ export default {
         ],
       },
       intro:
-        'Een geboren computer liefhebber, ik ben het kind van een programmeur dus het is er met de paplepel ingegoten. Via een kleine omweg door de dierenwereld ben ik in 2021 tot vaders geluk eindelijk gaan programmeren. Ik ben begonnen met een full stack training, echter lag mijn voorkeur al heel snel bij de Front-end. Ik heb ondertussen ervaring met meerdere talen en de afgelopen tijd vooral bezig geweest met Vue.js, Tailwind en Firebase. Ik vind het heerlijk om direct resultaat te zien van mijn werk en niets leukers dan lang stoeien en proberen tot het naar mijn zin is.',
+        'Een geboren computer liefhebber, ik ben het kind van een programmeur dus het is er met de paplepel ingegoten. Via een kleine omweg door de dierenwereld ben ik in 2021 eindelijk gaan programmeren. Ik ben begonnen met een full stack training, echter lag mijn voorkeur al heel snel bij de Front-end. Ik heb ondertussen ervaring met meerdere talen en de afgelopen tijd vooral bezig geweest met Vue.js, Tailwind en Firebase. Ik vind het heerlijk om direct resultaat te zien van mijn werk en niets leukers dan lang stoeien en proberen tot het naar mijn zin is.',
       aboutHighlights: [
         'Bekend met Vue.js maar ook React en SolidJS',
         'Ervaren met HTML, CSS, Bootstrap en Tailwind',
