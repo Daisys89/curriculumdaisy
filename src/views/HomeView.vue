@@ -11,12 +11,24 @@
       <div class="relative max-w-6xl mx-auto px-6 pt-20 pb-6">
         <div class="text-center mb-16">
           <!-- Profile Image -->
-          <div class="relative inline-block mb-8">
+          <!-- <div class="relative inline-block mb-8">
             <div
               class="w-32 h-32 mx-auto bg-gradient-to-br from-teal-400 to-cyan-500 rounded-full flex items-center justify-center text-white text-4xl font-bold shadow-2xl"
             >
               {{ getInitials(person.name) }}
             </div>
+            <div
+              class="absolute -bottom-2 -right-2 w-8 h-8 bg-green-400 rounded-full border-4 border-white"
+            ></div>
+          </div> -->
+
+          <!-- Profile Image -->
+          <div class="relative inline-block mb-8">
+            <img
+              src="../assets/img/daisy.jpg"
+              alt="Profielfoto"
+              class="w-40 h-40 mx-auto rounded-full shadow-2xl object-cover object-top"
+            />
             <div
               class="absolute -bottom-2 -right-2 w-8 h-8 bg-green-400 rounded-full border-4 border-white"
             ></div>
