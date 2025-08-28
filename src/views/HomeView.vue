@@ -11,18 +11,6 @@
       <div class="relative max-w-6xl mx-auto px-6 pt-20 pb-6">
         <div class="text-center mb-16">
           <!-- Profile Image -->
-          <!-- <div class="relative inline-block mb-8">
-            <div
-              class="w-32 h-32 mx-auto bg-gradient-to-br from-teal-400 to-cyan-500 rounded-full flex items-center justify-center text-white text-4xl font-bold shadow-2xl"
-            >
-              {{ getInitials(person.name) }}
-            </div>
-            <div
-              class="absolute -bottom-2 -right-2 w-8 h-8 bg-green-400 rounded-full border-4 border-white"
-            ></div>
-          </div> -->
-
-          <!-- Profile Image -->
           <div class="relative inline-block mb-8">
             <img
               src="../assets/img/daisy.jpg"
@@ -435,7 +423,7 @@ export default {
         ],
       },
       intro:
-        'Een geboren computer liefhebber het kind van een programmeur dus het is er dan ook met de paplepel ingegoten. Via een kleine omweg door de dierenwereld ben ik in 2021 eindelijk aan het programmeren geslagen. Ik heb een full stack training gehad, maar mijn voorkeur ligt echt bij de Front-end. Ik heb ondertussen ervaring met meerdere talen en de afgelopen tijd vooral bezig geweest met Vue.js, Tailwind en Firebase. Ik vind het heerlijk om direct resultaat te zien van mijn werk en niets leukers dan lang stoeien en proberen tot het naar mijn zin is.',
+        'Een geboren computer liefhebber, ik ben het kind van een programmeur dus het is er met de paplepel ingegoten. Via een kleine omweg door de dierenwereld ben ik in 2021 tot vaders geluk eindelijk gaan programmeren. Ik ben begonnen met een full stack training, echter lag mijn voorkeur al heel snel bij de Front-end. Ik heb ondertussen ervaring met meerdere talen en de afgelopen tijd vooral bezig geweest met Vue.js, Tailwind en Firebase. Ik vind het heerlijk om direct resultaat te zien van mijn werk en niets leukers dan lang stoeien en proberen tot het naar mijn zin is.',
       aboutHighlights: [
         'Bekend met Vue.js maar ook React en SolidJS',
         'Ervaren met HTML, CSS, Bootstrap en Tailwind',
