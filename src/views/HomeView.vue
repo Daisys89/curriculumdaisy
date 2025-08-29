@@ -465,7 +465,7 @@ export default {
           type: 'Fulltime',
           period: '2022 - Heden',
           description:
-            'Het eerste jaar een allround Full Stack Development training gehad, in maart 2023 begonnen bij het Ministerie van Justitie als Progress ABL ontwikkelaar. Bij JIO gewerkt met waterval, Agile en Kanban. Hier veel meegekregen over werken in grote teams waar veel besproken en overlegd moet worden. Vorig jaar een met een POC de oude applicatie van een nieuwe Front-end voorzien, zonder hulp van AI. Dat project afgelopen maand weer opgepakt en nu met behulp van UX pilot, Vue, Tailwind en Claude een nog mooiere Front-end aan het maken.',
+            'Het eerste jaar een allround Full Stack Development training gehad, in maart 2023 begonnen bij het Ministerie van Justitie als Progress ABL ontwikkelaar. Bij JIO gewerkt met waterval, Agile en Kanban. Hier veel meegekregen over werken in grote teams waar veel besproken en overlegd moet worden. Vorig jaar met een POC de oude applicatie van een nieuwe Front-end voorzien, zonder hulp van AI. Dat project afgelopen maand weer opgepakt en nu met behulp van UX Pilot, Vue, Tailwind en Claude een nog mooiere Front-end aan het maken.',
 
           technologies: ['Vue.js', 'UX pilot', 'Tailwind', 'Claude.ai', 'Progress ABL'],
         },
